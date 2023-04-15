@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/iTan-Blogging/static/css/main.711d7c41.css",
-    "main.js": "/iTan-Blogging/static/js/main.b3a889cc.js",
+    "main.js": "/iTan-Blogging/static/js/main.cfeb1259.js",
     "static/js/787.b456b3f3.chunk.js": "/iTan-Blogging/static/js/787.b456b3f3.chunk.js",
     "index.html": "/iTan-Blogging/index.html",
     "static/media/index.cjs": "/iTan-Blogging/static/media/index.cd351d7c31d0d3fccf96.cjs",
     "main.711d7c41.css.map": "/iTan-Blogging/static/css/main.711d7c41.css.map",
-    "main.b3a889cc.js.map": "/iTan-Blogging/static/js/main.b3a889cc.js.map",
+    "main.cfeb1259.js.map": "/iTan-Blogging/static/js/main.cfeb1259.js.map",
     "787.b456b3f3.chunk.js.map": "/iTan-Blogging/static/js/787.b456b3f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.711d7c41.css",
-    "static/js/main.b3a889cc.js"
+    "static/js/main.cfeb1259.js"
   ]
 }
